@@ -1,0 +1,1 @@
+django-admin startproject "nombreDelProyecto" #crear el esqueleto del proyecto
